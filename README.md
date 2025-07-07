@@ -24,10 +24,6 @@ This repository provides a **step-by-step manual** for creating a Purchase Order
 - Oracle Forms Builder 10g
 - Oracle Database with `PO_HEADERS_ALL` table
 
-## 📸 Screenshots
-
-> Add screenshots here to demonstrate layout editor or radio group UI (optional)
-
 ## 📂 File Structure
 
 📦oracle-forms-10g-po-manual
